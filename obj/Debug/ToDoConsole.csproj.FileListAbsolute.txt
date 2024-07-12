@@ -1,0 +1,9 @@
+C:\Users\mphol\source\repos\ToDoConsole\obj\Debug\ToDoConsole.csproj.AssemblyReference.cache
+C:\Users\mphol\source\repos\ToDoConsole\obj\Debug\ToDoConsole.csproj.CoreCompileInputs.cache
+C:\Users\mphol\source\repos\ToDoConsole\bin\Debug\ToDoConsole.exe.config
+C:\Users\mphol\source\repos\ToDoConsole\bin\Debug\ToDoConsole.exe
+C:\Users\mphol\source\repos\ToDoConsole\bin\Debug\ToDoConsole.pdb
+C:\Users\mphol\source\repos\ToDoConsole\obj\Debug\ToDoConsole.exe
+C:\Users\mphol\source\repos\ToDoConsole\obj\Debug\ToDoConsole.pdb
+C:\Users\mphol\source\repos\ToDoConsole\obj\Debug\ToDoConsole.Properties.Resources.resources
+C:\Users\mphol\source\repos\ToDoConsole\obj\Debug\ToDoConsole.csproj.GenerateResource.cache
